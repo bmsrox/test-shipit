@@ -1,0 +1,21 @@
+{
+  "name": "shipit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shipit-cli": "^4.1.2",
+    "shipit-deploy": "^4.1.2",
+    "shipit-local": "^0.5.5",
+    "shipit-npm": "^0.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4"
+  }
+}
